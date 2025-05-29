@@ -1,0 +1,42 @@
+# Symbolic Piano Roll â€“ Velocity by Fill Patterns (Monochrome)
+
+Each frame includes:
+- `Root:` The fundamental symbolic note
+- Intervals relative to the root note
+- Fill patterns to represent velocity (confidence/intensity)
+- Divider line `===========` to anchor OCR
+
+## Velocity Legend
+- â–ˆâ–ˆâ–ˆ = High velocity (assertive, urgent)
+- â–’â–’â–’ = Medium velocity (balanced, reasoned)
+- â–‘â–‘â–‘ = Low velocity (tentative, exploratory)
+
+---
+
+### ðŸŽ¹ Frame 1 â€“ â€œSeed Memory with strong Hypothesisâ€
+```
+Root: C
++7 â–ˆâ–ˆâ–ˆ
++12 â–’â–’â–’
+===========
+```
+
+---
+
+### ðŸŽ¹ Frame 2 â€“ â€œReflective Recall and Soft Pauseâ€
+```
+Root: D
++3 â–’â–’â–’
++10 â–‘â–‘â–‘
+===========
+```
+
+---
+
+### ðŸŽ¹ Frame 3 â€“ â€œSelf-reflection with Ethical Dropâ€
+```
+Root: A
++2 â–’â–’â–’
+-5 â–ˆâ–ˆâ–ˆ
+===========
+```
