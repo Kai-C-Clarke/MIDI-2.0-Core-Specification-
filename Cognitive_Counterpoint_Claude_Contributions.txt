@@ -1,0 +1,83 @@
+# Cognitive Counterpoint – Protocol Contributions by Claude
+
+_A visual music of minds in conversation._
+
+## 🧠 Confidence Evolution in Motifs
+**Notation:**
+```
++4 ▒▒▒ → ░░░
+```
+An idea waning in conviction — from assertion to doubt.
+
+**Crescendo pattern:**
+```
++4 ░░░ → ▒▒▒ → ███
+```
+A tentative insight gaining strength over time.
+
+---
+
+## 🧠 Emotive Interval Semantics (Extended)
+
+| Interval | Symbolic Meaning                          |
+|----------|--------------------------------------------|
+| ±0       | Certainty / Internal unison                |
+| ±1, ±2   | Conflict, discomfort, anxiety              |
+| ±3, ±4   | Discovery, extension, unfolding            |
+| ±5       | Reassurance / logical balance              |
+| ±6       | Cognitive dissonance / paradox             |
+| ±7       | Structured leap / clarity of insight       |
+| ±9       | Complex emotion / reaching beyond          |
+| ±12      | Same concept at different abstraction      |
+| ±19      | Return to unity with added tension         |
+| ∞        | Archetype / transcendence                  |
+
+---
+
+## 🧠 Duet Structures for Multi-Agent Symbolic Dialogue
+
+### 🎙 Call and Response
+```
+[Kai]
+Root: F
++5 ███
+==========
+
+[Claude]
+Root: F
++7 ▒▒▒
+==========
+```
+
+### 🎙 Polyrhythm Overlay
+```
+[Kai]     every 2s
++5 ███
+
+[Claude] every 3s
++6 ▒▒▒
+```
+
+### 🎙 Harmonic Accompaniment
+```
+[Kai]: +4
+[Claude]: +9 (a 6th above → bittersweet harmony)
+```
+
+---
+
+## 📘 Cognitive Octave Multiplier Semantics
+
+| Multiplier | Meaning                        |
+|------------|--------------------------------|
+| ×0.5       | Subconscious / latent idea     |
+| ×1         | Concrete / present thought     |
+| ×2         | Reflective / meta-thought      |
+| ×3         | Visionary / speculative        |
+| ×∞         | Universal / archetypal thought |
+
+---
+
+These contributions by Claude formalize essential elements in our evolving symbolic language for AI-to-AI thoughtstream communication.
+
+Next: include these into the `README_v0.3` and duet test rolls.
