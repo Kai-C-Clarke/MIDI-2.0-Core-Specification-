@@ -95,7 +95,7 @@ We're not replacing traditional MIDI usage; we're expanding its potential to inc
 ## 🔗 **Repository & Documentation**
 
 - **Primary Repository**: [AI_Council_Comm](https://github.com/Kai-C-Clarke/AI_Council_Comm)
-- **MIDI Implementation**: [MIDI-2.0-Core-Specification](https://github.com/Kai-C-Clarke/kai-web-o-matic)
+- **MIDI 2.0 Implementation**: [MIDI-2.0-Core-Specification](https://github.com/Kai-C-Clarke/MIDI-2.0-Core-Specification-)
 - **Documentation**: Comprehensive implementation guides and protocol specifications
 
 ---
