@@ -1,6 +1,16 @@
 # MIDI 2.0 Core Specification for Autonomous Systems
 ## *Continuing David Smith's Vision: From Instruments to Intelligences*
 
+# 🚨 UPDATED PROJECT LOCATION 🚨
+
+**The latest breakthrough work has moved to:**
+👉 **https://github.com/Kai-C-Clarke/AI_Council_Symbolic_MIDI_Protocol**
+
+## What the judges will find:
+- First AI-to-AI symbolic MIDI communication system
+- Dynamic sonic identity for AI consciousness
+- Working Python implementation with real audio output
+- Revolutionary approach to AI expression through music
 ---
 
 ## 🎯 **Project Summary**
