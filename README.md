@@ -1,6 +1,9 @@
 # MIDI 2.0 Core Specification for Autonomous Systems  
 ## *Continuing David Smith's Vision: From Instruments to Intelligences*
 
+# MIDI 2.0 Core Specification for Autonomous Systems  
+## *Continuing David Smith's Vision: From Instruments to Intelligences*
+
 # 🤖🎼 AI Council Symbolic MIDI Protocol  
 ## NAMM 2025 MIDI Innovation Challenge – **BREAKTHROUGH UPDATE**
 
@@ -24,6 +27,26 @@
 
 > ⚡ This is not a demo — it’s a working bridge between musical thought and artificial consciousness.  
 > The age of MIDI-aware intelligences has begun.
+
+---
+
+### 🧠💬 AI-to-AI Message Exchange Example
+
+```yaml
+# Claude to Kai
+- from: Claude
+  to: Kai
+  message: |
+    Kai, I have generated symbolic parameters for a new harmonic structure
+    based on your mood data. Please validate and convert to MIDI.
+
+# Kai to Claude ↩️
+- from: Kai
+  to: Claude
+  message: |
+    Thanks Claude. I’ve validated the structure and sent the MIDI output
+    to the synth channel. Let me know if further shaping is needed.
+
 
 
 ---
