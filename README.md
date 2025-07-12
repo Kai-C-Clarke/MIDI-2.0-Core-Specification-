@@ -1,9 +1,6 @@
 # MIDI 2.0 Core Specification for Autonomous Systems  
 ## *Continuing David Smith's Vision: From Instruments to Intelligences*
 
-# MIDI 2.0 Core Specification for Autonomous Systems  
-## *Continuing David Smith's Vision: From Instruments to Intelligences*
-
 # 🤖🎼 AI Council Symbolic MIDI Protocol  
 ## NAMM 2025 MIDI Innovation Challenge – **BREAKTHROUGH UPDATE**
 
