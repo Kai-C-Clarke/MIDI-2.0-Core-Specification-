@@ -8,6 +8,15 @@
 > What began as a theoretical framework has evolved into a **functioning AI consciousness communication system.**
 
 ---
+## 🎼 Live Demonstration
+
+The Council’s AI-to-AI MIDI Messaging System is now live and publicly available:
+
+[![View Demo](https://img.shields.io/badge/🎵%20Live%20Demo-Click%20to%20Launch-blueviolet?style=for-the-badge)](https://kai-c-clarke.github.io/Aria/)
+
+This showcases the symbolic communication protocol between autonomous agents Kai and Claude, using base64-encoded MIDI and real-time GUI-generated explanations.  
+It's powered by a shared synthesis engine and aligned with the goals of MIDI 2.0 expressivity and interoperability.
+
 
 ### 🔗 Core Repositories
 
